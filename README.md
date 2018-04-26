@@ -4,7 +4,7 @@ This project is a plan to publish a live table on the landing page and build out
 that help explain network values.
 Currently, price speculation and euphoria has masses going to coinmarketcap.com or other price pages to answer their
 "Has the price gone up?" questions.
-NetworkValue.info instead answers the question we ought to ask ourselves to understand whgat's taking place
+NetworkValue.info instead answers the question we ought to ask ourselves to understand what is happening,
 "Has the network grown in value?".
 Network value growth is a much more important growth metric to optimize against than the price of the underlying
 asset native to the network. (Examples: Dollar for US Economy, Ether for Ethereum, Ada for Cardano, or Bitcoin for
@@ -24,7 +24,7 @@ This can be displaced through inflationary supply policies as we see today with 
 I've decided to use bitcoin as the base unit for network values because it represents the first cryptographically 
 secure and transparent record with sound economic principles for a store of value over time.
 You would be able to measure the US Economy's network value in terms of bitcoin with the right set of global banking 
-data and volume estimates for cash transactions.
+data, volume estimates for cash transactions, and an audit from the Federal Reserve.
 
 Optimizing for the growth of network value rather than the price of the underlying native asset is a key concept for
 unlocking cryptoassets' potential for new forms of human organization and progress.
