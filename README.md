@@ -2,6 +2,8 @@
 
 This project is a plan to publish a live table on the landing page and build out a directory of data visualizations 
 that help explain network values.
+Please consider contributing.
+
 Currently, price speculation and euphoria has masses going to coinmarketcap.com or other price pages to answer their
 "Has the price gone up?" questions.
 NetworkValue.info instead answers the question we ought to ask ourselves to understand what is happening,
