@@ -2,6 +2,8 @@
 
 This project is a plan to publish a live table on the landing page and build out a directory of data visualizations 
 that help explain network values.
+Please consider contributing.
+
 Currently, price speculation and euphoria has masses going to coinmarketcap.com or other price pages to answer their
 "Has the price gone up?" questions.
 NetworkValue.info instead answers the question we ought to ask ourselves to understand what is happening,
@@ -10,9 +12,10 @@ Network value growth is a much more important growth metric to optimize against 
 asset native to the network. (Examples: Dollar for US Economy, Ether for Ethereum, Ada for Cardano, or Bitcoin for
 Bitcoin)
 The world needs a barometer for these networks in the same way industrial averages were needed to measure and justify 
-capital allocation at the end of the 1800s
+capital allocation at the end of the 1800s.
 
-The network value of money explains the phenomena of changes in purchasing power across markets.
+
+The network value of money explains the phenomena of changes in purchasing power across networks.
 When considering which form of money to use, consider the associated network value.
 When you travel to Paris, you use Francs or Euros because they are the French Economy's and European Union's native 
 assets; two networks that you find yourself within.
