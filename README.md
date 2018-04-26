@@ -24,7 +24,7 @@ This can be displaced through inflationary supply policies as we see today with 
 I've decided to use bitcoin as the base unit for network values because it represents the first cryptographically 
 secure and transparent record with sound economic principles for a store of value over time.
 You would be able to measure the US Economy's network value in terms of bitcoin with the right set of global banking 
-data, volume estimates for cash transactions, and an audit from the Federal Reserve.
+data, volume estimates for cash transactions, and Federal Reserve audits.
 
 Optimizing for the growth of network value rather than the price of the underlying native asset is a key concept for
 unlocking cryptoassets' potential for new forms of human organization and progress.
