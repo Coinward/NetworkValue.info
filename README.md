@@ -9,7 +9,7 @@ NetworkValue.info instead answers the question we ought to ask ourselves to unde
 Network value growth is a much more important growth metric to optimize against than the price of the underlying
 asset native to the network. (Examples: Dollar for US Economy, Ether for Ethereum, Ada for Cardano, or Bitcoin for
 Bitcoin)
-The world needs a barometer for these networks in the same way industrial averges were needed to measure and justify 
+The world needs a barometer for these networks in the same way industrial averages were needed to measure and justify 
 capital allocation at the end of the 1800s
 
 The network value of money explains the phenomena of changes in purchasing power across markets.
