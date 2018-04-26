@@ -1,4 +1,4 @@
-# NetworkValue.info
+o# NetworkValue.info
 
 This project is a plan to publish a live table on the landing page and build out a directory of data visualizations 
 that help explain network values.
@@ -14,7 +14,7 @@ Bitcoin)
 The world needs a barometer for these networks in the same way industrial averges were needed to measure and justify 
 capital allocation at the end of the 1800s
 
-The network value of money explains the phenomena of changes in purchasing power across markets.
+The network value of money explains the phenomena of changes in purchasing power across networks.
 When considering which form of money to use, consider the associated network value.
 When you travel to Paris, you use Francs or Euros because they are the French Economy's and European Union's native 
 assets; two networks that you find yourself within.
