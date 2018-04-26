@@ -1,4 +1,4 @@
-o# NetworkValue.info
+# NetworkValue.info
 
 This project is a plan to publish a live table on the landing page and build out a directory of data visualizations 
 that help explain network values.
